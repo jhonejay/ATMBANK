@@ -1,0 +1,18 @@
+c:\users\acer\documents\visual studio 2015\Projects\ATMBANK\ATMBANK\bin\Debug\ATMBANK.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ATMBANK\ATMBANK\bin\Debug\ATMBANK.exe
+c:\users\acer\documents\visual studio 2015\Projects\ATMBANK\ATMBANK\bin\Debug\ATMBANK.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ATMBANK\ATMBANK\obj\Debug\ATMBANK.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\ATMBANK\ATMBANK\obj\Debug\ATMBANK.exe
+c:\users\acer\documents\visual studio 2015\Projects\ATMBANK\ATMBANK\obj\Debug\ATMBANK.pdb
+F:\C#-Projects (boss)\ATMBANK\ATMBANK\bin\Debug\ATMBANK.exe.config
+F:\C#-Projects (boss)\ATMBANK\ATMBANK\obj\Debug\ATMBANK.exe
+F:\C#-Projects (boss)\ATMBANK\ATMBANK\obj\Debug\ATMBANK.pdb
+F:\C#-Projects (boss)\ATMBANK\ATMBANK\bin\Debug\ATMBANK.exe
+F:\C#-Projects (boss)\ATMBANK\ATMBANK\bin\Debug\ATMBANK.pdb
+F:\C#-Projects (boss)\ATMBANK\ATMBANK\obj\Debug\ATMBANK.csprojResolveAssemblyReference.cache
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\ATMBANK\ATMBANK\bin\Debug\ATMBANK.exe.config
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\ATMBANK\ATMBANK\obj\Debug\ATMBANK.exe
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\ATMBANK\ATMBANK\obj\Debug\ATMBANK.pdb
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\ATMBANK\ATMBANK\bin\Debug\ATMBANK.exe
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\ATMBANK\ATMBANK\bin\Debug\ATMBANK.pdb
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\ATMBANK\ATMBANK\obj\Debug\ATMBANK.csprojResolveAssemblyReference.cache
